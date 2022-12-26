@@ -2,7 +2,7 @@
 Script  fouille de poubelle [ FiveM ]
 
 - 1
-Entièrement configurable dans le config.lua
+Entièrement configurable dans le shared.lua
 
 - Item trouvable 
 - Couleur 
