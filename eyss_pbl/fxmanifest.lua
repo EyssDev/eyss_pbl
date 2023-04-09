@@ -2,7 +2,7 @@ fx_version 'cerulean'
 games { 'gta5' };
 
 
-Author "Ezukau#1144"
+Author "Eyss"
 version "1.0"
 
 shared_scripts {
